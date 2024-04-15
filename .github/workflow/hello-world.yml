@@ -11,4 +11,3 @@ jobs:
     steps:
     - name: Echo text
       uses: echo "Hello, world!"
-    
